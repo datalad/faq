@@ -8,13 +8,15 @@
 
 > Frequently Asked Questions
 
-Please ask your question in an [Issue](https://github.com/datalad/faq/issues). Make sure to search existing issues, as your question may already have been asked and answered.
+This repository was "deprecated" in favor of just containing all questions, including frequently asked ones, withing the [main DataLad github repository](https://github.com/datalad/datalad/issues).
+Please ask your question in an [DataLad Issues](https://github.com/datalad/datalad/issues). Make sure to search existing issues, as your question may already have been asked and answered.  The FAQs have `FAQ` label attached.
 
-### [View Questions + Answers](https://github.com/datalad/faq/issues)
-### [Ask a new Question](https://github.com/datalad/faq/issues/new)
+### [View All Questions](https://github.com/datalad/datalad/issues)
+### [View FAQs](https://github.com/datalad/datalad/issues)
+### [Ask a new Question](https://github.com/datalad/datalad/issues/new)
 _Please search first!_
 
-We mark questions which have been answered as 'answered': if you would like to help answer questions, you can use [this search](https://github.com/datalad/faq/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+-label%3Aanswered) to find unanswered questions.
+We close `question` issues which have been answered: if you would like to help answer questions, you can use [this search](https://github.com/datalad/datalad/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+-label%3Aanswered) to find unanswered questions.
 
 ## Table of Contents
 
@@ -33,15 +35,11 @@ We hope that this FAQ would help answering a lot of questions, and it might beco
 
 #### Use "WIP" in the question title to denote a "Work In Progress" answer.
 
-Let's mark any Q/As with `WIP` when the answer is long, complex, and likely to evolve over time. It is very important to signal when we think something is roughly "a final answer", versus "a place to jot down notes and point others for quick disambiguation". Many answers, like comparisons to other systems, will be WIPs for a while.
-
-#### Closing issues
-
-We try not to close issues that have been answered adequately; leaving them open makes them more easy to search and find, and improves visibility. Instead, mark the question as 'answered'. Issues should be closed, however, if they are duplicates, irrelevant, or poor quality. Sometimes we will maintain, curate or edit an issue to ensure higher quality, too; we'll post in the issue when we do that.
+We will mark any Q/As with `WIP` when the answer is long, complex, and likely to evolve over time. It is very important to signal when we think something is roughly "a final answer", versus "a place to jot down notes and point others for quick disambiguation". Many answers, like comparisons to other systems, will be WIPs for a while.
 
 #### Rendering to a page
 
-All these questions and answers will later be compiled into a webpage rendered at http://docs.datalad.org (still TODO)
+The "best" questions and answers will later be compiled into a webpage rendered at http://docs.datalad.org (still TODO)
 
 ## Contribute
 
